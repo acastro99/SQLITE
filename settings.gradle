@@ -1,2 +1,0 @@
-include ':app'
-rootProject.name='CRUD_SQLite_Sis21B'
